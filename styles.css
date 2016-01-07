@@ -1,0 +1,11 @@
+#by {
+  font-style: italic
+}
+
+.jumbotron {
+  max-width: 650px;
+}
+
+.btn-danger {
+	margin-bottom: 10px;
+}
